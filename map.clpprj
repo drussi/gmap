@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="W:\home\localhost\www\map\map.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/map/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/map/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><dplmenupath>
+	</dplmenupath><smartyassings>
+	</smartyassings><codestructure>
+		<csfile name="W:\home\localhost\www\map\map.clpprj" crc="-2088113996">
+		</csfile><csfile name="W:\home\localhost\www\map\js\google.js" crc="-1162758136">
+		</csfile><csfile name="W:\home\localhost\www\map\js\#google.js" crc="-1018154392">
+		</csfile><csfile name="W:\home\localhost\www\map\test1.html" crc="-1572039083">
+			<jstree>
+				<treenode node="initialize;JS:Function Name;2;8;3;17;34;;;v;;r;;d24,8;;b0,0;;m">
+					<treenode node="center;JS:JS Var Name;6;12;12;12;34;;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="document;JS:JS Var Name;34;15;42;15;34;;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="google;JS:JS Var Name;17;13;23;13;34;;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="latlng;JS:JS Var Name;8;9;14;9;34;Object;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="map;JS:JS Var Name;8;15;11;15;34;Object;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="mapTypeId;JS:JS Var Name;6;13;15;13;34;;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="myOptions;JS:JS Var Name;8;10;17;10;34;;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="zoom;JS:JS Var Name;6;11;10;11;34;;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+			</jstree>
+		</csfile><csfile name="W:\home\localhost\www\map\test.html" crc="1177128725">
+			<jstree>
+				<treenode node="initialize;JS:Function Name;4;18;5;25;34;;;v;;r;;d24,8;;b0,0;;m">
+					<treenode node="document;JS:JS Var Name;24;20;32;20;34;;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="geocoder;JS:JS Var Name;8;23;16;23;34;Object;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="map;JS:JS Var Name;8;20;11;20;34;Object;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="showAddress;JS:Function Name;4;27;5;49;34;;;v;;r;;d34,27;;b0,0;;maddress;;p">
+					<treenode node="address;JS:JS Var Name;25;27;32;27;34;;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="draggable;JS:JS Var Name;47;36;56;36;34;;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="geocoder;JS:JS Var Name;10;28;18;28;34;;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="GEvent;JS:JS Var Name;14;38;20;38;34;;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="map;JS:JS Var Name;14;35;17;35;34;;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="marker;JS:JS Var Name;18;36;24;36;34;Object;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="point;JS:JS Var Name;19;31;24;31;34;;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="geocoder;JS:JS Var Name;8;16;16;16;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="map;JS:JS Var Name;8;15;11;15;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</jstree>
+		</csfile><csfile name="W:\home\localhost\www\map\index.html" crc="1811688866">
+		</csfile></codestructure><dbgurls>
+	</dbgurls>
+</project>
